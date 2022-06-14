@@ -1,10 +1,10 @@
 # Robo.devmy Generator
 
 <div style="display:flex;gap:1.5rem;">
-    <img src="./images/0.png" alt="drawing" width="50"/>
-    <img src="./images/1.png" alt="drawing" width="50"/>
-    <img src="./images/2.png" alt="drawing" width="50"/>
-    <img src="./images/3.png" alt="drawing" width="50"/>
+    <img src="./images/0.png" alt="drawing" width="100"/>
+    <img src="./images/1.png" alt="drawing" width="100"/>
+    <img src="./images/2.png" alt="drawing" width="100"/>
+    <img src="./images/3.png" alt="drawing" width="100"/>
 </div>
 <br>
 
