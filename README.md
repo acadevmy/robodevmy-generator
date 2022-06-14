@@ -8,7 +8,7 @@
 </div>
 <br>
 
-Python script that generates Devmybot images.
+Python script that generates robo.devmy avatar images.
 
 ## Usage
 
